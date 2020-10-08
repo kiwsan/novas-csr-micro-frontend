@@ -34,7 +34,12 @@ const routes = [
   {
     path: "/react",
     component: Nova,
-    props: { name: "Example", data: { title: "ReactJs" } },
+    props: { name: "ReactJs", data: { title: "ReactJs" } },
+  },
+  {
+    path: "/vue2",
+    component: Nova,
+    props: { name: "VueJs2", data: { title: "VueJs2" } },
   },
 ];
 

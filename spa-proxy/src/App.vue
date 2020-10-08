@@ -6,6 +6,7 @@
       <router-link class="navbar-item" to="/">Home</router-link>
       <router-link class="navbar-item" to="/vue">VueJs</router-link>
       <router-link class="navbar-item" to="/react">ReactJs</router-link>
+      <router-link class="navbar-item" to="/vue2">VueJs2</router-link>
     </div>
 
     <br />
